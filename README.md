@@ -4,7 +4,7 @@ A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 
 ## Demo
 
-I decided to take my card info off of heroku so no hosted demo.
+https://lit-tor-84301.herokuapp.com/
 
 ## Installation
 
